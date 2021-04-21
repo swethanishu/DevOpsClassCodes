@@ -32,7 +32,7 @@
             <id>vaadin-snapshots</id>
             <url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
             <releases>
-                <enabled>false</enabled>
+                <enabled>true</enabled>
             </releases>
             <snapshots>
                 <enabled>true</enabled>
